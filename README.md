@@ -1,4 +1,9 @@
-# OOP_Network
+# OOP_Network With Java
+
+
+![index](https://user-images.githubusercontent.com/63317015/188516399-826360a2-31b1-495d-bf02-922257816b8b.png)
+
+
 
 
 This desktop Java project app focuses on simulating how to address network connections and configurations. For example, store on MySQL database all the network properties such as hubs, repeaters, routers switches…etc. 
